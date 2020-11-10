@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Sur le point de terminer mon AEC en Développement Web Front-end, je recherche d'un stage. Si mon profil vous intérresse, je serai ravis de me joindre à votre équipe de développeurs Juniors.
+  Étant sur le point de terminer mon AEC en Développement Web Front-end, je recherche d'un stage. Si mon profil vous intérresse, je serai ravis de me joindre à votre équipe de développeurs Juniors.
 </p>
 
 <h3>Mes Compétences</h3>
