@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/CreasyDev/CreasyDev/blob/main/gitHubProfile2.jpg" />
+<img src="https://github.com/CreasyDev/CreasyDev/blob/main/bannerGithub.jpg" />
 
 <h3>Mon Profil</h3>
 
