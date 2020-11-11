@@ -2,12 +2,13 @@
 
 <img src="https://github.com/CreasyDev/CreasyDev/blob/main/bannerGithub.jpg" />
 
-<h3>Bonjour à tous !</h3>
+## Bonjour à tous !
 
-<p>
-  Étant sur le point de terminer mon AEC en Développement Web Front-end, je suis actuellement à la recherche d'un stage. Si mon profil vous intérresse, n'hésitez pas à me            contacter. 
-  Je serai ravis de me joindre à votre équipe de développeurs Juniors.
-</p>
+  **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
+  Si mon profil vous intérresse, n'hésitez pas à me contacter. 
+  
+   
+
 
 <h3>Ce que je connais :</h3>
 
