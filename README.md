@@ -7,10 +7,6 @@
   **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
   Si mon profil vous intérresse, n'hésitez pas à me contacter. 
   
-   
-
-
-<h3>Ce que je connais :</h3>
 ## Ce que je connais
 
 <ul>
