@@ -1,8 +1,6 @@
-
-
 <img src="https://github.com/CreasyDev/CreasyDev/blob/main/bannerGithub.jpg" />
 
-## Bonjour à tous !
+## Mon nom est Franck Gallard
 
   **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
   Si mon profil vous intérresse, n'hésitez pas à me contacter. 
@@ -20,4 +18,6 @@
   <li>Photshop</li>
   <li>Illustrator</li>
 </ul>
+
+---
 
