@@ -9,7 +9,7 @@
   Je serai ravis de me joindre à votre équipe de développeurs Juniors.
 </p>
 
-<h3>Mes Compétences</h3>
+<h3>Ce que je connais :</h3>
 
 <ul>
   <li>HTML5</li>
