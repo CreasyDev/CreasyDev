@@ -1,6 +1,6 @@
 <img src="https://github.com/CreasyDev/CreasyDev/blob/main/bannerGithub.jpg" />
 
-### Bonjour à tous ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Bonjour à tous ! 
 
 **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
 Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.google.com). Je serais très heureux de rejoindre votre équipes développeurs juniors
