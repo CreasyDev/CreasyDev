@@ -11,13 +11,13 @@ Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.goo
 ### 🧰 Ce que je connais:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/75/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/75/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/75/000000/sass.png"/>
-  <img src="https://img.icons8.com/color/75/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/75/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/75/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/75/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/65/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/65/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/65/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/65/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/65/000000/angularjs.png"/>
 </p>
 
 ### ✉️ En savoir plus:
