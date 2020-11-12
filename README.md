@@ -1,9 +1,9 @@
 <img src="https://github.com/CreasyDev/CreasyDev/blob/main/bannerGithub.jpg" />
 
-### Bonjour à tous !
+### Bonjour à tous ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
-Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très heureux de rejoindre votre équipes développeurs juniors
+Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.google.com). Je serais très heureux de rejoindre votre équipes développeurs juniors
 
 ## 🧰 Ce que je connais:
 <p align="center">
@@ -20,17 +20,21 @@ Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très 
 <p align="center">
  
    
-      <a href="mailto:franckgallardnaika@gmail.com" target="_blank"> 
-      <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
-    </a>
-    <a href="https://www.linkedin.com/in/franck-gallard-0208121b9/"  target="_blank" rel="noopener noreferrer"> 
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-    </a>
-     <a href="franckgnaika.com"  target="_blank" rel="noopener noreferrer"> 
-      <img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
-    </a>
+ 
+      <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
+   
+
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
+
+
+      <img src="https://img.icons8.com/fluent/48/000000/domain.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
+ 
 
 </p>
+
+
+
+
 
 
 
