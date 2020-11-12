@@ -19,18 +19,9 @@ Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.goo
 ## ✉️ En savoir plus:
 <p align="center">
  
-   
- 
-      <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
-   
-
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
-
-
-      <img src="https://img.icons8.com/fluent/48/000000/domain.png" href="mailto:franckgallardnaika@gmail.com" target="_blank"/>
- 
-
 </p>
+
+
 
 
 
