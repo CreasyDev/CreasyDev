@@ -19,9 +19,8 @@ Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très 
 ## ✉️ En savoir plus:
 <p align="center">
  
- <a href="https://linkedin.com/in/charalambosioannou">
    
-      <a href="mailto:franckgallardnaika@gmail.com" target="_blank" rel="noopener noreferrer"> 
+      <a href="mailto:franckgallardnaika@gmail.com" target="_blank"> 
       <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
     </a>
     <a href="https://www.linkedin.com/in/franck-gallard-0208121b9/"  target="_blank" rel="noopener noreferrer"> 
