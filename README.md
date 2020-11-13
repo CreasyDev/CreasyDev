@@ -3,14 +3,16 @@
 ___
 
 
-### Bonjour à tous ! 
+### Bonjour à tous ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
-Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.google.com). Je serais très heureux de rejoindre votre équipes développeurs juniors
+Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très heureux de rejoindre votre équipes développeurs juniors.
+
+___
 
 ### 🧰 Ce que je connais:
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/65/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/65/000000/css3.png"/>
   <img src="https://img.icons8.com/color/65/000000/sass.png"/>
@@ -20,14 +22,20 @@ Si mon profil vous intérresse, [n'hésitez pas à me contacter](https://www.goo
   <img src="https://img.icons8.com/color/65/000000/angularjs.png"/>
 </p>
 
+___
+
 ### ✉️ En savoir plus:
+
 <p align="center">
- 
-</p>
-
-
-
-
+   <a href="mailto:<yours>?subject=Came%20from%20Github">
+     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/<yours>/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/<yours>">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 
 
 
