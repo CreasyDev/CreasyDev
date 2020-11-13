@@ -12,7 +12,7 @@ ___
 
 ### 🧰 Ce que je connais:
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/65/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/65/000000/css3.png"/>
   <img src="https://img.icons8.com/color/65/000000/sass.png"/>
@@ -26,7 +26,7 @@ ___
 
 ### ✉️ En savoir plus:
 
-<p align="center">
+<p align="left">
    <a href="mailto:<yours>?subject=Came%20from%20Github">
      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/<yours>/">
