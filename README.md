@@ -24,16 +24,13 @@ ___
 
 ___
 
-### ✉️ En savoir plus:
+### ✉️ contacts:
 
 <p align="left">
-   <a href="mailto:<yours>?subject=Came%20from%20Github">
+   <a href="mailto:info&#64;apparencemedia&#46;com">
      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/<yours>/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/<yours>">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 
