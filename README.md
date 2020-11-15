@@ -24,7 +24,7 @@ ___
 
 ___
 
-### ✉️ contacts:
+### ✉️ Contacts:
 
 <p align="left">
    <a href="mailto:franckgallardnaika&#64;gmail&#46;com">
