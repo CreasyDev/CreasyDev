@@ -27,9 +27,9 @@ ___
 ### ✉️ Contacts:
 
 <p align="left">
-   <a href="mailto:franckgallardnaika&#64;gmail&#46;com">
+   <a href="mailto:franckgallardnaika&#64;gmail&#46;com" target="_blank">
      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/<yours>/">
+   <a href="https://www.linkedin.com/in/<yours>/" target="_blank">
      <img src="https://www.linkedin.com/in/franck-gallard-0208121b9/" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
