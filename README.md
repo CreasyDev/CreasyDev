@@ -6,7 +6,7 @@ ___
 ### Bonjour à tous ! 
 
 **Étant sur le point de terminer mon AEC en Développement Web Front-end,  _je suis actuellement à la recherche d'un stage._** 
-Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très heureux de rejoindre votre équipes développeurs juniors.
+Si mon profil vous intérresse, n'hésitez pas à me contacter. Je serais très heureux de rejoindre votre équipe de développeurs juniors.
 
 ___
 
